@@ -1,4 +1,9 @@
-### Hi there 👋
+### ika-yaki 🦑
+
+*noun*
+
+Person trying to skill up ASAP.
+
 
 <!--
 **ika-yaki/ika-yaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
